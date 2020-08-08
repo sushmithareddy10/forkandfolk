@@ -1,0 +1,45 @@
+
+#btn1{
+    padding: 2px 4px 2px 4px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    margin-right: 5px;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: medium;
+    text-decoration-color: #ffffff;
+    font-weight: 500;
+}
+
+#btn2{
+    padding: 2px 4px 2px 4px;
+    border-radius: 20px;
+    background-color: #000000;
+    text-align: center;
+    font-size: medium;
+    text-decoration-color: #ffffff;
+    font-weight: 500;
+}
+.navbar-nav .nav-link{
+    font-weight: 600;
+}
+
+#signinImage{
+    position: relative;
+    left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

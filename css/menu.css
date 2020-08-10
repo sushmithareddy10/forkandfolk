@@ -23,11 +23,26 @@
 .navbar-nav .nav-link{
     font-weight: 600;
 }
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
 
-#signinImage{
-    position: relative;
-    
-}
-
-
-
+  #para{
+      margin-top: 500px;
+  }
+  .footer{
+      clear: both;
+      padding: 0;
+      background-color: #e3f2fd;
+      text-decoration-color: #ffffff;
+      padding-top: 5px;
+      width: 100%;
+  }
+  .content{
+      font-weight: bold;
+      font-style: italic;
+      font-size: x-large;
+      margin-left:-50px;
+      margin-right: 0;
+  }
